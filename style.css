@@ -60,3 +60,8 @@ main img:hover{
 width: 690px;
 height: 500px;
 }
+
+.green:hover{
+    color: #af1e2a ;
+    font-size: 30px;
+}
