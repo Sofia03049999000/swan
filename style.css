@@ -50,3 +50,13 @@ footer p{
 nav{
     text-align: center;
 }
+
+.black:hover{
+    background-color: #FFA9A9;
+    font-size: 40px;
+}
+
+main img:hover{
+width: 690px;
+height: 500px;
+}
