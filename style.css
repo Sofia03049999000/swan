@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 40;
+    color: #A91515;
+    text-align: center;
+}
+
+.green{
+    text-decoration: none;
+    color: #D52E2E;
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.black{
+    color: #A91515;
+    font-size: 30px;
+}
+
+.white{
+    font-size: 25px;
+}
+
+.hourse{
+    background-color: #FFA9A9;
+}
+
+footer p{
+    font-size: 30px;
+}
+
+.block{
+    position: absolute;
+    left: 400px;
+}
+
+.bluck{
+    position: relative;
+    left: 300px;
+}
+
+.gold{
+    background-color: #FFA9A9;
+}
