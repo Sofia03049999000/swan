@@ -1,7 +1,3 @@
-body {
-    font-family: sans-serif;
-}
-
 h1{
     font-size: 40;
     color: #A91515;
@@ -11,18 +7,19 @@ h1{
 .green{
     text-decoration: none;
     color: #D52E2E;
-    padding: 40px;
-    font-size: 20px;
+    padding: 30px;
+    font-size: 25px;
     text-align: center;
 }
 
 .black{
     color: #A91515;
-    font-size: 30px;
+    font-size: 35px;
+    text-align: center;
 }
 
 .white{
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .hourse{
@@ -30,7 +27,7 @@ h1{
 }
 
 footer p{
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .block{
@@ -53,15 +50,18 @@ nav{
 
 .black:hover{
     background-color: #FFA9A9;
-    font-size: 40px;
+    font-size: 45px;
+    transition: 0.5s font-size ease-out;
 }
 
 main img:hover{
 width: 690px;
 height: 500px;
+transition: 1s  ease-in;
 }
 
 .green:hover{
-    color: #af1e2a;
-    font-size: 30px;
+    color: #af1e2a ;
+    font-size: 35px;
+    transition: 1s font-size ease-out;
 }
